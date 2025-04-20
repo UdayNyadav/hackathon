@@ -12,3 +12,5 @@ uvicorn[standard]
 keras
 tensorflow
 joblib
+gunicorn
+
